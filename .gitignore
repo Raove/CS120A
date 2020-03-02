@@ -59,3 +59,8 @@ planAhead*
 *.txt
 *.vf
 FinalProject/sch2HdlBatchFile
+Lab1/sch2HdlBatchFile
+Lab2/sch2HdlBatchFile
+Lab4/sch2HdlBatchFile
+*.sym
+Lab5/sch2HdlBatchFile
